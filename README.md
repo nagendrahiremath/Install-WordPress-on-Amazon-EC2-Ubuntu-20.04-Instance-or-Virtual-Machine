@@ -99,7 +99,7 @@ Install WordPress on Amazon EC2 Ubuntu 20.04 Instance or Virtual Machine
 	
 #Restart Apache Web Server
    
-   sudo service apache2 restart
+    sudo service apache2 restart
    
 #Install PhpMyAdmin on Amazon ec2 Ubuntu Instance
  1). Open your ssh terminal and type the following command and press enter key
