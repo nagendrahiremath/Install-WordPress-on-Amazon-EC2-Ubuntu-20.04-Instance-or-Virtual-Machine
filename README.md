@@ -144,3 +144,6 @@ Install WordPress on Amazon EC2 Ubuntu 20.04 Instance or Virtual Machine
 // to go to the path " /var/www/html " type  cd /var/www/html
 
     sudo rm -rf index.html
+
+![Screenshot 2023-03-15 11113](https://user-images.githubusercontent.com/108117183/231665319-d2e975da-d031-4e58-8c36-bab74d77f85e.png)
+
