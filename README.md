@@ -97,7 +97,7 @@ Install WordPress on Amazon EC2 Ubuntu 20.04 Instance or Virtual Machine
     </IfModule>
 	:wq!
 	
-  Restart Apache Web Server
+#Restart Apache Web Server
    
    sudo service apache2 restart
    
